@@ -1,0 +1,3 @@
+# robots.txt generated at http://ruoyi.vip
+User-agent: *
+Allow: /
